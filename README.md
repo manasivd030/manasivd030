@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **I love to paint bugs to irritate developers**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
