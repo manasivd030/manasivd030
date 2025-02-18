@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mansi Vaidya</h1>
-<h3 align="center">A passionate Quality Engineer from India</h3>
+<h3 align="center">A passionate Quality Engineer</h3>
 
 - 🔭 I’m currently working on **automation tools for software testing purpose to upgrade myself**
 
